@@ -1,0 +1,9 @@
+numpy==1.24.3
+Flask==3.0.3
+Flask
+flask-cors
+transformers
+deepface
+PyMuPDF
+beautifulsoup4
+requests
